@@ -11,3 +11,7 @@
 ![](Images/Working_show.PNG)
 
 
+![](Images/Dash_board_web.PNG)
+
+
+![](Images/RMSE_plot.PNG)
