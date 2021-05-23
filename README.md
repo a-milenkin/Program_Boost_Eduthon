@@ -11,7 +11,11 @@
 ![](Images/Working_show.PNG)
 
 
+# *Web-интерфейс работы*
+
 ![](Images/Dash_board_web.PNG)
 
+
+# *Эволюция точности модели по мере добавления идей*
 
 ![](Images/RMSE_plot.PNG)
