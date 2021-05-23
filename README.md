@@ -11,7 +11,7 @@
 ![](Images/Working_show.PNG)
 
 
-# *Web-интерфейс работы*
+# *Web-интерфейс работы решения*
 
 ![](Images/Dash_board_web.PNG)
 
