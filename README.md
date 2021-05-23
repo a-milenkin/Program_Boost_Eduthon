@@ -8,6 +8,6 @@
 
 # *Демонстрация работы*
 
-![](images/Working_show.PNG)
+![](Images/Working_show.PNG)
 
 
