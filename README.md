@@ -5,11 +5,14 @@
 Результаты построения предиктивной модели
 
 
-
 ## Полученная точност: 
 * **train/test: RMSE = 14.8**
 * **validation: RMSE = 11.8**
 
+![](Images/Final_Winners.PNG)
+
+
+# Наше Решение:
 
 ![](Images/Working_show.PNG)
 
