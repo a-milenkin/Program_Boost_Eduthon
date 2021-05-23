@@ -1,12 +1,11 @@
-# Program_Boost_Eduthon
+# Program_Boost_Eduthon 
+Команда # 28
 Результаты построения предиктивной модели
 
 
 
 # *Полученная точность: RMSE = 14.8*
 
-
-# *Демонстрация работы*
 
 ![](Images/Working_show.PNG)
 
