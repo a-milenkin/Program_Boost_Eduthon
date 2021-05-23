@@ -5,8 +5,8 @@
 
 
 ## *Полученная точност: 
-* train/test: RMSE = 14.8*
-* validation: RMSE = 11.8*
+* *train/test: RMSE = 14.8*
+* *validation: RMSE = 11.8*
 
 
 ![](Images/Working_show.PNG)
